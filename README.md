@@ -1,4 +1,4 @@
 # sp-demo
 This is my first git repository
 <br>
-Author = Shriniwas patil
+Author = Shriniwas Jayawant Patil
